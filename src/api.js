@@ -72,39 +72,32 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/312/312?blur=2",
-    desctiption:
-      "This is a random image from Picsum API. I used it to test the design of the portfolio.",
+    img: "https://picsum.photos/id/96/312/312",
+    desctiption: "😎",
   },
   {
-    img: "https://picsum.photos/314/314",
-    desctiption:
-      "This is a random image from Picsum API. I used it to test the design of the portfolio.",
+    img: "https://picsum.photos/id/366/400/601",
+    desctiption: "This is what I need.",
   },
   {
-    img: "https://picsum.photos/400/601",
-    desctiption:
-      "This is a random image from Picsum API. I used it to test the design of the portfolio.",
+    img: "https://picsum.photos/id/250/314/314?grayscale",
+    desctiption: "Take a break from coding and go take some photos.",
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
-    desctiption:
-      "This is a random image from Picsum API. I used it to test the design of the portfolio.",
+    img: "https://picsum.photos/id/201/400/600/?grayscale",
+    desctiption: "Almost all programmers use glasses...",
   },
   {
-    img: "https://picsum.photos/400/600/?blur=1",
-    desctiption:
-      "This is a random image from Picsum API. I used it to test the design of the portfolio.",
+    img: "https://picsum.photos/id/180/400/600/?blur=1",
+    desctiption: "Always learning new things.",
   },
   {
-    img: "https://picsum.photos/400/700",
-    desctiption:
-      "This is a random image from Picsum API. I used it to test the design of the portfolio.",
+    img: "https://picsum.photos/id/1060/400/700",
+    desctiption: "For me, Coffe is like water.",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption:
-      "This is a random image from Picsum API. I used it to test the design of the portfolio.",
+    img: "https://picsum.photos/id/1/400/?grayscale",
+    desctiption: "Work smart, not hard.",
   },
 ];
 const socialprofils = {
