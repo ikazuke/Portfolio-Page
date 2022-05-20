@@ -6,9 +6,9 @@ const meta = {
 const introdata = {
   title: "I'm Wilson Segura",
   animated: {
-    first: "I enjoy coding!",
-    second: "I love to create things!",
-    third: "I develop mobile apps too :)",
+    first: "I develop mobile apps too📲",
+    second: "I love to create things!🆕",
+    third: "I enjoy coding!👨‍💻",
   },
   description:
     "University of Costa Rica student of bachelor of business computing career. I'm a self-taught junior developer and I'm always learning new things. I'm a fan of the web design.",

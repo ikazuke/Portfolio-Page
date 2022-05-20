@@ -23,7 +23,12 @@ export const Portfolio = () => {
           {dataportfolio.map((data, i) => {
             return (
               <div key={i} className="po_item">
-                <img src={data.img} alt="" loading="lazy" />
+                <img
+                  src={data.img}
+                  alt=""
+                  loading="lazy"
+                  onContextMenu="return false;"
+                />
                 <div className="content">
                   <p>{data.desctiption}</p>
                 </div>
