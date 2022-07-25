@@ -1,3 +1,5 @@
+const intro = " ";
+
 const logotext = "Who I am?";
 const meta = {
   title: "Portfolio",
